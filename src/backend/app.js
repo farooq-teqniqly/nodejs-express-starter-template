@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 greeterRoutes(app);
 
 app.get("/", (req, res) => {
-  res.send("Hello from Express!");
+  res.send("<h1>Hello from Express!</h1>");
 });
 
 export { app };
