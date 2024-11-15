@@ -28,3 +28,4 @@ If you're using WebStorm, follow these steps to resolve missing import warnings 
 5. Click the **Download** button on the right.
 6. Scroll down until use see **Jest**.
 7. Select **Jest** then click **Download and Install**
+8. Repeat steps 1-7 for **supertest** and **express** libraries
